@@ -152,20 +152,3 @@ Use the AI-customized chatbot (available on the platform) for assistance with na
 Contributing
 Contributions are welcome! To contribute:
 
-Fork the repository:git fork https://github.com/web-codings123/EazyWed.git
-
-
-Create a new branch:git checkout -b feature/your-feature-name
-
-
-Make your changes and commit them:git commit -m "Add your feature description"
-
-
-Push to your branch:git push origin feature/your-feature-name
-
-
-Open a pull request on the GitHub repository.
-
-If you encounter issues or have suggestions, please open an issue on the GitHub repository.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
